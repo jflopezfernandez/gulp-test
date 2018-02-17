@@ -1,0 +1,37 @@
+{
+  "name": "gulp-dev",
+  "version": "1.0.0",
+  "description": "Experimenting with the gulp build system",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "test",
+    "file",
+    "build",
+    "system"
+  ],
+  "author": "Jose Fernando Lopez Fernandez",
+  "license": "ISC",
+  "devDependencies": {
+    "connect": "^3.6.6",
+    "globby": "^8.0.1",
+    "graceful-fs": "^4.1.11",
+    "gulp": "^4.0.0",
+    "gulp-beautify": "^2.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-confirm": "^1.0.7",
+    "gulp-deploy-git": "^0.5.3",
+    "gulp-email": "0.0.7",
+    "gulp-gulp": "0.0.5",
+    "gulp-if": "^2.0.2",
+    "gulp-jshint": "^2.1.0",
+    "gulp-myth": "^1.1.0",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.5",
+    "minimatch": "^3.0.4",
+    "mocha": "^5.0.1",
+    "serve-static": "^1.13.2"
+  }
+}
